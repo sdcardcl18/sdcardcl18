@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning DSA,React and NodeJs
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
 - 😄 Pronouns: He/Him
+- Interested In Spirituality
+- 
   
 
 <!---
