@@ -2,7 +2,8 @@
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
 - 😄 Pronouns: He/Him
 - Interested In Spirituality
-- Falling in love woth Data Analysis.
+- Falling in love with Data Analysis and SQL
+- 
   
   
 
