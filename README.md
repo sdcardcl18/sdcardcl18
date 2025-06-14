@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - Interested In Spirituality
 - Falling in love with Data Analysis and SQL
-- 
+
   
   
 
