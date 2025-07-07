@@ -1,9 +1,8 @@
 
-- 👋 Hi, I’m Samarth Deshpande
+- 👋 Hi, I’m Samarth Deshpande.
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
-- 😄 Pronouns: He/Him
-- Interested In Spirituality
-- Falling in love with Data Analysis and SQL
+- 😄 Pronouns: He/Him.
+-  Passionate about Data Analysis and SQL
 
   
   
