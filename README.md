@@ -5,7 +5,7 @@
 -  Passionate about Data Analysis and SQL
 -  Currently Working In Automation Sector.
 - Intereseted In Football And Also Have A Deep Interest In Spirituality.
--  
+  
 
   
   
