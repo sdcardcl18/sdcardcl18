@@ -1,3 +1,4 @@
+<img width="800" height="600" alt="221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc" src="https://github.com/user-attachments/assets/741fa714-aefd-4e69-88cd-fea9e329c1cd" />
 
 - 👋 Hi, I’m Samarth Deshpande.
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
