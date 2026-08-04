@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samarth Deshpande</h1>
 <h3 align="center">
 
-<img width="200" height="200" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/ee5a44e4-ad55-4395-8b78-72841c10bfa6" />
-<img width="200" height="200" alt="data-analysis" src="https://github.com/user-attachments/assets/8b04998e-0ccd-4d40-b377-ee64f1362e0a" />
+<img width="500" height="500" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/ee5a44e4-ad55-4395-8b78-72841c10bfa6" />
 
 ## Skills:-
 
