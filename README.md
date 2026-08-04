@@ -1,4 +1,5 @@
-<img width="800" height="600" alt="221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc" src="https://github.com/user-attachments/assets/741fa714-aefd-4e69-88cd-fea9e329c1cd" />
+<img width="400" height="400" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/ee5a44e4-ad55-4395-8b78-72841c10bfa6" />
+<img width="400" height="400" alt="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e" src="https://github.com/user-attachments/assets/4b11a514-a9fb-4d86-b7f5-c910b5e587c6" />
 
 - 👋 Hi, I’m Samarth Deshpande.
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
