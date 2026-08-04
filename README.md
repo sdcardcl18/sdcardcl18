@@ -8,9 +8,9 @@
 
 -  How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
 
--  Passionate about Data Analysis and SQL
+-  Passionate about Data Analysis and SQL.
 
--  Currently Working In Automation Sector.
+-  Currently Working In Process Automation Sector @Xytel India.Pvt.Ltd.
 
 - Intereseted In Football And Also Have A Deep Interest In Spirituality.
 
