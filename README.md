@@ -3,6 +3,9 @@
 - 📫 How to reach me https://www.linkedin.com/in/samarth-deshpande-b8812a256/
 - 😄 Pronouns: He/Him.
 -  Passionate about Data Analysis and SQL
+-  Currently Working In Automation Sector.
+- Intereseted In Football And Also Have A Deep Interest In Spirituality.
+-  
 
   
   
