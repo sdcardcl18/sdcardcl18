@@ -2,7 +2,7 @@
 <h3 align="center">
 
 <img width="400" height="400" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/ee5a44e4-ad55-4395-8b78-72841c10bfa6" />
-<img width="400" height="400" alt="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e" src="https://github.com/user-attachments/assets/4b11a514-a9fb-4d86-b7f5-c910b5e587c6" />
+<img width="400" height="400" alt="data-analysis" src="https://github.com/user-attachments/assets/8b04998e-0ccd-4d40-b377-ee64f1362e0a" />
 
 ## Skills:-
 
